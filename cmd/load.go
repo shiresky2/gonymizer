@@ -9,7 +9,7 @@ import (
 
 	"github.com/logrusorgru/aurora"
 	log "github.com/sirupsen/logrus"
-	"github.com/smithoss/gonymizer"
+	"github.com/smithoss/gonymizer/v2"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

@@ -5,7 +5,7 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/smithoss/gonymizer"
+	"github.com/smithoss/gonymizer/v2"
 	"github.com/spf13/cobra"
 )
 
